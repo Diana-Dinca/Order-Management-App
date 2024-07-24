@@ -83,5 +83,7 @@ I implemented the following methods using Reflection: *createSelectQuery*- creat
         return t;
     }
 ```
-#### I've gained insights into utilizing Reflection in Java, for inspecting and manipulating classes, methods, and fields. Also, I have deepened my understanding of database design principles, SQL queries, and data manipulation techniques.
-#### I have conducted many tests. First, I tested the validation functionality and performance by introducing invalid data. Secondly, I tested various cases on adding, updating and deleting entities, checking with the view option if the table changed in the right way.
+#### 
+I've gained insights into utilizing Reflection in Java, for inspecting and manipulating classes, methods, and fields. Also, I have deepened my understanding of database design principles, SQL queries, and data manipulation techniques.
+#### 
+I have conducted many tests. First, I tested the validation functionality and performance by introducing invalid data. Secondly, I tested various cases on adding, updating and deleting entities, checking with the view option if the table changed in the right way.
